@@ -1,0 +1,15 @@
+.products__list {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    align-items: center;
+}
+
+
+@media screen and (min-width: 600px) {
+    .products__list {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,32 @@
+.modal__load {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+    z-index: 30;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border: 6px solid var(--color-gray-3);
+    border-top-color: var(--color-primary);
+    animation: circleRotation .6s infinite;
+    border-radius: 50%;
+}
+
+.modal__load--close {
+    display: none;
+}
+
+
+@keyframes circleRotation {
+    0% {
+        transform: rotate(1turn);
+    }
+}

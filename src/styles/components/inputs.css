@@ -1,0 +1,21 @@
+.input-group__container {
+    display: flex;
+    gap: 8px;
+}
+
+.input-group__container input {
+    padding: 6px 10px;
+    width: 90%;
+    box-sizing: border-box;
+    outline: none;
+    border: 2px solid var(--color-gray-3);
+}
+
+.input-group__container button {
+    height: 40px;
+    width: 40px;
+    background-color: var(--color-secondary);
+    color: white;
+    border: 2px solid var(--color-gray-3);
+    cursor: pointer;
+}
