@@ -1,7 +1,7 @@
 #  Weartake
 
 ![GitHub](https://img.shields.io/github/license/steinerstt/weartake-vanilla?style=for-the-badge)
-![Website](https://img.shields.io/website?color=gree&label=Status&style=for-the-badge&up_message=finalizado&url=https://github.com/steinerstt/weartake-react)
+![Website](https://img.shields.io/website?color=gree&label=Status&style=for-the-badge&up_message=finalizado&url=https://github.com/steinerstt/weartake-vanilla)
 <br><br>
 
 ![Weartake](https://github.com/steinerstt/screenshots-projects/blob/main/weartake-vanilla/home-gif.gif?raw=true)
