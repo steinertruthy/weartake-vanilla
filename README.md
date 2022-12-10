@@ -1,4 +1,4 @@
-#  Wartake
+#  Weartake
 
 ![GitHub](https://img.shields.io/github/license/steinerstt/weartake-vanilla?style=for-the-badge)
 ![Website](https://img.shields.io/website?color=gree&label=Status&style=for-the-badge&up_message=finalizado&url=https://github.com/steinerstt/weartake-react)
