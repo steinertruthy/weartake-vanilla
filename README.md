@@ -72,15 +72,9 @@ Passo a passo no VSCode
 
 ![Home](https://github.com/steinerstt/screenshots-projects/blob/main/weartake-vanilla/home.jpg?raw=true)
 
-<br>
-
 ![Carrinho vazio](https://github.com/steinerstt/screenshots-projects/blob/main/weartake-vanilla/home-cart-empty.jpg?raw=true)
 
-<br>
-
 ![Carrinho com produtos](https://github.com/steinerstt/screenshots-projects/blob/main/weartake-vanilla/home-cart-products.jpg?raw=true)
-
-<br>
 
 ![Página do produto](https://github.com/steinerstt/screenshots-projects/blob/main/weartake-vanilla/page-product.jpg?raw=true)
 
